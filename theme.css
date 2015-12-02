@@ -1,0 +1,111 @@
+body,
+html {
+   margin:0;
+   padding:0;
+   color:#000;
+   background:#fff;
+   font-family: verdana,arial,helvetica,sans-serif;
+   margin-top: 0;
+   margin-bottom: 0;
+   width: 100%;
+   padding: 10px;
+}
+
+table {
+   border: 0px solid black;
+   border-collapse: collapse;
+   margin-bottom: 12px;
+}
+
+h1 {
+   margin: 5px 0 5px 0;
+}
+
+col.col1 {
+   width: 175px;
+}
+
+col.col2 {
+   width: 150px;
+}
+
+col.col3 {
+   width: 115px;
+}
+
+col.col4 {
+   width: 115px;
+}
+
+col.col5 {
+   width: 115px;
+}
+
+tr {
+   line-height: 0;
+   vertical-align: center;
+   text-align: left;
+   border-width: 1px;
+   break-inside : avoid;
+}
+
+tbody tr:nth-child(even) {
+   background: #ccc
+}
+
+tr.header {
+   background: #fff;
+}
+
+td, th {
+   border-style: none none none none;
+}
+
+thead th {
+   font-size: 14px;
+   border-style: none none solid none;
+}
+
+thead th.variation {
+   text-align: center;
+}
+
+th.header {
+   padding: 5px 0 5px 25px;
+   font-style: italic;
+   font-family: 'Trocchi', serif;
+   font-size: x-large;
+}
+
+th {
+   border: 1px solid black;
+   line-height: normal;
+}
+
+td.check {
+   text-align: center;
+}
+
+td.movename,
+td.twomovename,
+td.movenamedesc {
+   font-size: small;
+}
+
+td.movename {
+   line-height: 0;
+}
+
+td.twomovename,
+td.movenamedesc {
+   line-height: normal;
+}
+
+em.variation,
+div.description {
+   margin-left: 10px;
+}
+
+img.plus {
+    vertical-align: 5px;
+}
