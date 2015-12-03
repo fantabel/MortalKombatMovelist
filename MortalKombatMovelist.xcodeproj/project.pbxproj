@@ -10,6 +10,8 @@
 		2ED2F3F11C0A17EA006A0019 /* theme.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = theme.css; sourceTree = "<group>"; };
 		2ED2F3F21C0A17F6006A0019 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
 		2ED2F3F31C0F1642006A0019 /* JasonVoorhees.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = JasonVoorhees.html; sourceTree = "<group>"; };
+		2ED2F3F41C105E3D006A0019 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		2ED2F3F51C105E44006A0019 /* frame.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = frame.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +21,8 @@
 				2ED2F3F31C0F1642006A0019 /* JasonVoorhees.html */,
 				2ED2F3F21C0A17F6006A0019 /* img */,
 				2ED2F3F11C0A17EA006A0019 /* theme.css */,
+				2ED2F3F41C105E3D006A0019 /* README.md */,
+				2ED2F3F51C105E44006A0019 /* frame.html */,
 			);
 			sourceTree = "<group>";
 		};
