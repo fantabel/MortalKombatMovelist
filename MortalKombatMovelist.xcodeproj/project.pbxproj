@@ -7,17 +7,17 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2ED2F3F01C0A17E9006A0019 /* JasonVorhees.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = JasonVorhees.html; sourceTree = "<group>"; };
 		2ED2F3F11C0A17EA006A0019 /* theme.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = theme.css; sourceTree = "<group>"; };
 		2ED2F3F21C0A17F6006A0019 /* img */ = {isa = PBXFileReference; lastKnownFileType = folder; path = img; sourceTree = "<group>"; };
+		2ED2F3F31C0F1642006A0019 /* JasonVoorhees.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = JasonVoorhees.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		2ED2F3E91C0A17A0006A0019 = {
 			isa = PBXGroup;
 			children = (
+				2ED2F3F31C0F1642006A0019 /* JasonVoorhees.html */,
 				2ED2F3F21C0A17F6006A0019 /* img */,
-				2ED2F3F01C0A17E9006A0019 /* JasonVorhees.html */,
 				2ED2F3F11C0A17EA006A0019 /* theme.css */,
 			);
 			sourceTree = "<group>";
