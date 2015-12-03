@@ -110,10 +110,3 @@ img.plus {
     vertical-align: 5px;
 }
 
-#circle {
-    background: yellow;
-    border: 1px solid black;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-}
